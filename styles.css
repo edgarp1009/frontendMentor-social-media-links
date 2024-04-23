@@ -90,7 +90,7 @@ main {
 .attribution {
     color: white;
     position: absolute;
-    bottom: 50px;
+    bottom: 10px;
     left: calc((100% - 277.36px)/2);
 
     a {
